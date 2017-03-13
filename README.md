@@ -2,7 +2,9 @@
 How to do transactions in WCF.
 
 
+##Query to create neccessary files##
 
+```sql
 CREATE TABLE [Employee](
 	[Eid] [int] IDENTITY(1,1) NOT NULL,
 	[EName] [varchar](50) NOT NULL,
@@ -24,3 +26,4 @@ CREATE TABLE [Transactions](
 	[TInfo] [varchar] (50),	
   [TDate] [datetime]	
 	)
+```
