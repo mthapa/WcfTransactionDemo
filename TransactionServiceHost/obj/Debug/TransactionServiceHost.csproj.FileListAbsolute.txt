@@ -1,0 +1,16 @@
+I:\Video Tutorial\WCF\WCF Part - 47\TransactionServiceLibrary\TransactionServiceHost\bin\Debug\TransactionServiceHost.exe.config
+I:\Video Tutorial\WCF\WCF Part - 47\TransactionServiceLibrary\TransactionServiceHost\bin\Debug\TransactionServiceHost.exe
+I:\Video Tutorial\WCF\WCF Part - 47\TransactionServiceLibrary\TransactionServiceHost\bin\Debug\TransactionServiceHost.pdb
+I:\Video Tutorial\WCF\WCF Part - 47\TransactionServiceLibrary\TransactionServiceHost\bin\Debug\TransactionServiceLibrary.dll
+I:\Video Tutorial\WCF\WCF Part - 47\TransactionServiceLibrary\TransactionServiceHost\bin\Debug\TransactionServiceLibrary.pdb
+I:\Video Tutorial\WCF\WCF Part - 47\TransactionServiceLibrary\TransactionServiceHost\obj\Debug\TransactionServiceHost.csprojResolveAssemblyReference.cache
+I:\Video Tutorial\WCF\WCF Part - 47\TransactionServiceLibrary\TransactionServiceHost\obj\Debug\TransactionServiceHost.exe
+I:\Video Tutorial\WCF\WCF Part - 47\TransactionServiceLibrary\TransactionServiceHost\obj\Debug\TransactionServiceHost.pdb
+C:\Users\madant\Downloads\TransactionServiceLibrary\TransactionServiceLibrary\TransactionServiceHost\bin\Debug\TransactionServiceHost.exe.config
+C:\Users\madant\Downloads\TransactionServiceLibrary\TransactionServiceLibrary\TransactionServiceHost\obj\Debug\TransactionServiceHost.exe
+C:\Users\madant\Downloads\TransactionServiceLibrary\TransactionServiceLibrary\TransactionServiceHost\obj\Debug\TransactionServiceHost.pdb
+C:\Users\madant\Downloads\TransactionServiceLibrary\TransactionServiceLibrary\TransactionServiceHost\bin\Debug\TransactionServiceHost.exe
+C:\Users\madant\Downloads\TransactionServiceLibrary\TransactionServiceLibrary\TransactionServiceHost\bin\Debug\TransactionServiceHost.pdb
+C:\Users\madant\Downloads\TransactionServiceLibrary\TransactionServiceLibrary\TransactionServiceHost\bin\Debug\TransactionServiceLibrary.dll
+C:\Users\madant\Downloads\TransactionServiceLibrary\TransactionServiceLibrary\TransactionServiceHost\bin\Debug\TransactionServiceLibrary.pdb
+C:\Users\madant\Downloads\TransactionServiceLibrary\TransactionServiceLibrary\TransactionServiceHost\obj\Debug\TransactionServiceHost.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+I:\Video Tutorial\WCF\WCF Part - 47\TransactionServiceLibrary\TransactionServiceLibrary\bin\Debug\TransactionServiceLibrary.dll.config
+I:\Video Tutorial\WCF\WCF Part - 47\TransactionServiceLibrary\TransactionServiceLibrary\bin\Debug\TransactionServiceLibrary.dll
+I:\Video Tutorial\WCF\WCF Part - 47\TransactionServiceLibrary\TransactionServiceLibrary\bin\Debug\TransactionServiceLibrary.pdb
+I:\Video Tutorial\WCF\WCF Part - 47\TransactionServiceLibrary\TransactionServiceLibrary\obj\Debug\TransactionServiceLibrary.dll
+I:\Video Tutorial\WCF\WCF Part - 47\TransactionServiceLibrary\TransactionServiceLibrary\obj\Debug\TransactionServiceLibrary.pdb
+C:\Users\madant\Downloads\TransactionServiceLibrary\TransactionServiceLibrary\TransactionServiceLibrary\bin\Debug\TransactionServiceLibrary.dll.config
+C:\Users\madant\Downloads\TransactionServiceLibrary\TransactionServiceLibrary\TransactionServiceLibrary\bin\Debug\TransactionServiceLibrary.dll
+C:\Users\madant\Downloads\TransactionServiceLibrary\TransactionServiceLibrary\TransactionServiceLibrary\bin\Debug\TransactionServiceLibrary.pdb
+C:\Users\madant\Downloads\TransactionServiceLibrary\TransactionServiceLibrary\TransactionServiceLibrary\obj\Debug\TransactionServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\madant\Downloads\TransactionServiceLibrary\TransactionServiceLibrary\TransactionServiceLibrary\obj\Debug\TransactionServiceLibrary.dll
+C:\Users\madant\Downloads\TransactionServiceLibrary\TransactionServiceLibrary\TransactionServiceLibrary\obj\Debug\TransactionServiceLibrary.pdb
